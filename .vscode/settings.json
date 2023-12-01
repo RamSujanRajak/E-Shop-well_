@@ -1,0 +1,10 @@
+{
+    "workbench.activityBar.location": "side",
+    "workbench.statusBar.visible": true,
+    "workbench.tips.enabled": true,
+    "workbench.editor.centeredLayoutFixedWidth": false,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "editor.tabCompletion": "off",
+    "emmet.triggerExpansionOnTab": false,
+    "editor.stickyTabStops": false
+}
